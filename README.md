@@ -23,7 +23,7 @@
 ### B. Data visualization tools (Ing)
  * It's important to see how data looks like in different circumstances.
 
-### C. Training progress visualization tools (Ing, but not good enough)
+### C. Training progress visualization tools (To-Do)
  * For now, I am using Visdom - A simple drawing tool
  * However, it's **not good for saving & comparing results from different experiments**
  * There are some tools, and I'll select one of them to use
@@ -64,8 +64,9 @@
 
 ```
 
-### Store configuration for every experiment as a single configuration file (yaml / json)
+### Store configuration for every experiment as a single configuration file (yaml / json) (To-Do)
 * For training configuration, let's migrate from argparse -> yaml 
 
-### Git commit different implementation in different branch
+### Git commit different implementation in different branch (To-Do)
+* There are circumstances when you want to roll back to the previous version... this did happen
 
