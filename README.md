@@ -25,7 +25,10 @@
 ```
 .gitignore
 main.py
+experiments\
+ test\
+
 ```
 
 1. Store configuration for every experiment as a single configuration file (yaml / json)
- 
+* For training configuration, let's migrate from argparse -> yaml 
