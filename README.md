@@ -6,7 +6,7 @@
 * A well-organized experiments will
   * save you so much time
   * help you find better network architecture
-  * Easier to write papers later on
+  * Easier to write papers later on (Because results for all experiments are well-organized)
 * Remind yourself: There must be countless experiments behind works from other papers that looks like it worked well by the theory itself.
 
 (To-Do): What I've learned & will implement
