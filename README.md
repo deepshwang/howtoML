@@ -14,7 +14,7 @@
 
 ## 1. What to set-up before starting experiments of a project
 
-### A. <U>Global set-up of environments using docker images & docker hub</U> (Ing)
+### A. Global set-up of environments using docker images & docker hub(Ing)
  * When conducting multiple experiment sessions with multiple machines in parallel, it's tedious to conduct environment setting for every machine.
  * Also, there are some environments that's hard to configure with conda only => Docker image enables to store separate environments for different projects.
  * Here's how to set up & manage your docker environment in cloud.
@@ -31,7 +31,11 @@
    i. [Guild AI](https://my.guild.ai/)
    * Easy API to track experiments
    * Easy to compare and analyze the runs
-   * 
+
+### D. Write experiment diary (Ing, but not good enough)
+ * For now, I've been using google doc powerpoint
+ * However, it's not good enough to organize different ideas / data type
+ * MIGRATE TO: Notion [example: ECL-Transformer](https://www.notion.so/ECL-Transformer-Logs-3dc12843976d4af38522997be8935ca3)
 
 ## 2. How to organize your experiment procedures
 
@@ -41,6 +45,7 @@
   | experiments\
   | 210601\
     | config_training.yaml
+    | log.txt
     | state_dict\
       | checkpoint_best.pt
       | checkpoint_e_0.pt
