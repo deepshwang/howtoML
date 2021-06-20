@@ -14,7 +14,7 @@
 
 ## 1. What to set-up before starting experiments of a project
 
-### A. <u>Global set-up of environments using docker images & docker hub</u> (Ing)
+### A. <U>Global set-up of environments using docker images & docker hub</U> (Ing)
  * When conducting multiple experiment sessions with multiple machines in parallel, it's tedious to conduct environment setting for every machine.
  * Also, there are some environments that's hard to configure with conda only => Docker image enables to store separate environments for different projects.
  * Here's how to set up & manage your docker environment in cloud.
