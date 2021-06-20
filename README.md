@@ -27,7 +27,8 @@
  * For now, I am using Visdom - A simple drawing tool
  * However, it's **not good for saving & comparing results from different experiments**
  * There are some tools, and I'll select one of them to use
-  1. [Guild AI](https://my.guild.ai/)
+
+#### [Guild AI](https://my.guild.ai/)
    * Easy API to track experiments
    * Easy to compare and analyze the runs
    * 
