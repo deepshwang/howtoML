@@ -22,7 +22,9 @@
 
 ## How to organize your experiment procedures
 
-'asdf'
+`
+.gitignore
+`
 
 1. Store configuration for every experiment as a single configuration file (yaml / json)
  
