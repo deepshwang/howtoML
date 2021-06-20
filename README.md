@@ -35,7 +35,7 @@
 ### D. Write experiment diary (Ing, but not good enough)
  * For now, I've been using google doc powerpoint
  * However, it's not good enough to organize different ideas / data type
- * MIGRATE TO: Notion [example: ECL-Transformer](https://www.notion.so/ECL-Transformer-Logs-3dc12843976d4af38522997be8935ca3)
+ * Migrate to NOTION: [example: ECL-Transformer](https://www.notion.so/ECL-Transformer-Logs-3dc12843976d4af38522997be8935ca3)
 
 ## 2. How to organize your experiment procedures
 
