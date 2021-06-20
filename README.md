@@ -2,7 +2,7 @@
 
 ## 0. Why this is a MUST
 
-* A good theory itself cannot comprise a good network: EXPERIMENTS over EXPERIMENTS
+* A good theory itself cannot comprise a good network: **EXPERIMENTS over EXPERIMENTS**
 * A well-organized experiments will
   * save you so much time
   * help you find better network architecture
