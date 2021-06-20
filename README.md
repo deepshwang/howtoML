@@ -20,10 +20,10 @@
  * **Docker commit your environemnt to your docker respository so that you can pull it to any other machine for use!**
  * [My tips on dockers](https://docs.google.com/document/d/1-L2QjWVNap4urUJ62t9xC-BZTUi0W2m2DUha_pfuW9s/edit?usp=sharing)    
 
-### B. Data visualization tools (Ing)
+#### B. Data visualization tools (Ing)
  * It's important to see how data looks like in different circumstances.
 
-### C. Training progress visualization tools (Needs to be improved)
+#### C. Training progress visualization tools (Needs to be improved)
  * For now, I am using Visdom - A simple drawing tool
  * However, it's **not good for saving & comparing results from different experiments**
  * There are some tools, and I'll select one of them to use
@@ -32,7 +32,7 @@
    
    ii. [Weights & Biases](https://wandb.ai/site)
 
-### D. Write experiment diary (Ing, but not good enough)
+#### D. Write experiment diary (Ing, but not good enough)
  * For now, I've been using google doc powerpoint
  * However, it's not good enough to organize different ideas / data type
  * Migrate to NOTION: [example: ECL-Transformer](https://www.notion.so/ECL-Transformer-Logs-3dc12843976d4af38522997be8935ca3)
@@ -64,7 +64,7 @@
   ...
 
 ```
-### A. Store Everything from One Experiment in One Experiment Folder
+#### A. Store Everything from One Experiment in One Experiment Folder
 ```
   | experiments\
   | 210601\
@@ -78,9 +78,9 @@
     | README.md <- **Write things to note here**
 ```
 
-### B. Store Configuration for Every Experiment as a Single Configuration File (yaml / json) (To-Do)
+#### B. Store Configuration for Every Experiment as a Single Configuration File (yaml / json) (To-Do)
 * For training configuration, let's migrate from argparse -> yaml 
 
-### C. Git commit different implementations in different branch (To-Do)
+#### C. Git commit different implementations in different branch (To-Do)
 * There are circumstances when you want to roll back to the previous version... this did happen
 
