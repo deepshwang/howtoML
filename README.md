@@ -63,7 +63,7 @@
   ...
 
 ```
-### Store everything from one experiment in one experiment folder
+### A. Store everything from one experiment in one experiment folder
 ```
   | experiments\
   | 210601\
@@ -77,9 +77,9 @@
     | README.md <- **Write things to note here**
 ```
 
-### Store configuration for every experiment as a single configuration file (yaml / json) (To-Do)
+### B. Store configuration for every experiment as a single configuration file (yaml / json) (To-Do)
 * For training configuration, let's migrate from argparse -> yaml 
 
-### Git commit different implementation in different branch (To-Do)
+### C. Git commit different implementation in different branch (To-Do)
 * There are circumstances when you want to roll back to the previous version... this did happen
 
