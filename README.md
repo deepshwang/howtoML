@@ -67,14 +67,14 @@
 ```
   | experiments\
   | 210601\
-    | **config_training.yaml**
-    | log.txt
-    | state_dict\
+    | config_training.yaml <- **Store all hyperparameter for an experiment**
+    | log.txt <- **Save all training log **
+    | state_dict\ <- **Save the checkpoints & best nets here**
       | checkpoint_best.pt
       | checkpoint_e_0.pt
       | checkpoint_e_50.pt
       |...
-    | README.md
+    | README.md <- **Write things to note here**
 ```
 
 ### Store configuration for every experiment as a single configuration file (yaml / json) (To-Do)
