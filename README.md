@@ -23,7 +23,7 @@
 ### B. Data visualization tools (Ing)
  * It's important to see how data looks like in different circumstances.
 
-### C. Training progress visualization tools (To-Do)
+### C. Training progress visualization tools (Needs to be improved)
  * For now, I am using Visdom - A simple drawing tool
  * However, it's **not good for saving & comparing results from different experiments**
  * There are some tools, and I'll select one of them to use
