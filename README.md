@@ -29,6 +29,7 @@
  * There are some tools, and I'll select one of them to use
 
    i. [Guild AI](https://my.guild.ai/)
+   
    ii. [Weights & Biases](https://wandb.ai/site)
 
 ### D. Write experiment diary (Ing, but not good enough)
