@@ -63,6 +63,19 @@
   ...
 
 ```
+### Store everything from one experiment in one experiment folder
+```
+  | experiments\
+  | 210601\
+    | **config_training.yaml**
+    | log.txt
+    | state_dict\
+      | checkpoint_best.pt
+      | checkpoint_e_0.pt
+      | checkpoint_e_50.pt
+      |...
+    | README.md
+```
 
 ### Store configuration for every experiment as a single configuration file (yaml / json) (To-Do)
 * For training configuration, let's migrate from argparse -> yaml 
