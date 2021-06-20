@@ -38,7 +38,7 @@
  * Migrate to NOTION: example: [ECL-Transformer](https://www.notion.so/ECL-Transformer-Logs-3dc12843976d4af38522997be8935ca3)
 
 ## 2. How to organize your experiment procedures
-**Modularize every experiment!**
+*************** **Modularize every experiment!** ***************
 ```
 | .gitignore
 | main.py
