@@ -24,6 +24,7 @@
 
 `
 .gitignore
+main.py
 `
 
 1. Store configuration for every experiment as a single configuration file (yaml / json)
