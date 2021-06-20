@@ -9,7 +9,20 @@
   * Easier to write papers later on
 * Remind yourself: There must be countless experiments behind works from other papers that looks like it worked well by the theory itself.
 
+(To-Do): What I've learned & will implement
+(Ing): What I am already using
 
-### Global set-up of environments using docker images & docker hub
+## What to set-up before starting experiments of a project
 
-### Set-up your visualization tools
+1. Global set-up of environments using docker images & docker hub (Ing)
+
+2. Data visualization tools (Ing)
+
+3. Training progress visualization tools (Ing, but not good enough)
+
+## How to organize your experiment procedures
+
+'asdf'
+
+1. Store configuration for every experiment as a single configuration file (yaml / json)
+ 
