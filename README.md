@@ -17,7 +17,7 @@
 #### A. Global set-up of environments using docker images & docker cloud(Ing)
  * When conducting multiple experiment sessions with multiple machines in parallel, it's tedious to conduct environment setting for every machine.
  * Also, there are some environments that's hard to configure with conda only => Docker image enables to store separate environments for different projects.
- * **Docker commit your environemnt to your docker respository so that you can pull it to any other machine for use!**
+ * **Docker commit your environment to your docker hub so that you can pull it to any other machine for use!**
  * [My tips on dockers](https://docs.google.com/document/d/1-L2QjWVNap4urUJ62t9xC-BZTUi0W2m2DUha_pfuW9s/edit?usp=sharing)    
 
 #### B. Data visualization tools (Ing)
