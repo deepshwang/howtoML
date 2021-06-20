@@ -1,4 +1,4 @@
-# How to manage large-scale / multiple ML experiments
+# How to Manage Large-Scale / Multiple ML Experiments
 
 ## 0. Why this is a MUST
 
